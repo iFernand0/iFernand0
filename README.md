@@ -21,7 +21,6 @@
 
 -  📍Living in North zone of São Paulo, Brazil
 -  🔄 I'm in the 5th semester of Computer Science in Universidade Paulista - (UNIP)
--  
 
 ---
 <!-- Languages and frameworks i use -->

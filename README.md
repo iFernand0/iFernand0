@@ -24,7 +24,7 @@
 
 ---
 <!-- Languages and frameworks i use -->
-## Langauges and Frameworks I use
+## Languages and Frameworks I use
   
 <p align="start">
   <a href="https://skillicons.dev&theme=ligth">

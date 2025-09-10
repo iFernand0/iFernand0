@@ -20,7 +20,7 @@
 ## 🙋🏾‍♂️ About Me
 
 -  📍Living in North zone of São Paulo, Brazil
--  🔄 I'm in the 5th semester of Computer Science in Universidade Paulista - (UNIP)
+-  🔄 I'm study Informatica of internet in the Instituition Senac
 
 ---
 <!-- Languages and frameworks i use -->

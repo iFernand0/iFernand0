@@ -13,14 +13,14 @@
 <!-- Info about me -->
 # Hi I'm Fernando
 
-"I'm a software developer, I'm 22 years old and I'm from São Paulo. I'm study Informatica of internet in the Instituition Senac and I'm interested in technology, problem solving, and systems development. I always try to apply in practice what I learn and I am constantly evolving in the area."
+"I'm a software developer, I'm 22 years old and I'm from São Paulo. I'm study Informatica para internet in the Instituition Senac and I'm interested in technology, problem solving, and systems development. I always try to apply in practice what I learn and I am constantly evolving in the area."
 
 ---
 <!-- about me -->
 ## 🙋🏾‍♂️ About Me
 
 -  📍Living in North zone of São Paulo, Brazil
--  🔄 I'm study Informatica of internet in the Instituition Senac
+-  🔄 I'm study Informatica para internet in the Instituition Senac
 
 ---
 <!-- Languages and frameworks i use -->

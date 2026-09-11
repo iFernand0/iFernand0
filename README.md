@@ -1,16 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=110&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome+to+my+Github;+my+name+is+Fernando;I'm+22+years+old;+and+I'm+a+Software+Developer)](https://git.io/typing-svg)
-
- <!-- info and Stats --> 
- 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/username=iFernand0
-&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF" alt="Fernando de Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFernand0&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=FFFFFF" />
-</div>
-
----
 <!-- Info about me -->
 # Hi I'm Fernando
 
@@ -41,4 +28,3 @@
   <a href="mailto:fernando.developer.16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>

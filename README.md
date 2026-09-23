@@ -7,8 +7,9 @@
 <!-- about me -->
 ## 🙋🏾‍♂️ About Me
 
--  📍Living in North zone of São Paulo, Brazil
--  🔄 I'm study Informatica para internet in the Instituition Senac
+- Living in São Paulo, Brazil.
+- I'm study Informatica para internet in the Instituition Senac.
+- Specializing in Cybersecurity and Network Administration.
 
 ---
 <!-- Languages and frameworks i use -->

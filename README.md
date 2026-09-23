@@ -1,7 +1,7 @@
 <!-- Info about me -->
 # Hi I'm Fernando
 
-"I'm a 23-year-old software developer from São Paulo, specializing in front-end development and cybersecurity. I'm currently studying Internet Computing at Senac and I'm interested in technology, problem-solving, and systems development."
+I'm a 23 year old software developer from São Paulo, specializing in front-end development and cybersecurity. I'm currently studying Internet Computing at Senac and I'm interested in technology, problem-solving, and systems development.
 
 ---
 <!-- about me -->
